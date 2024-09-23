@@ -3,7 +3,7 @@ body {
     display: inline;
 }
 
-ul il {
+ul {
     text-decoration: none;
     color:chartreuse;
 }
@@ -11,4 +11,9 @@ ul il {
 h1 {
     text-align: center;
     color: blueviolet;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(255, 106, 0);
 }
