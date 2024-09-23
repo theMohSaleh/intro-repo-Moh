@@ -1,6 +1,10 @@
 body {
     margin: 30px 0 30px 0;
-    display: block;
+    display: inline;
+}
+
+ul il {
+    color:chartreuse;
 }
 
 h1 {
