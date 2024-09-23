@@ -17,3 +17,11 @@ h2 {
     text-align: center;
     color: rgb(255, 106, 0);
 }
+
+#cat1 {
+    position: relative;
+    min-width: 70px;
+    min-height: 200px;
+    max-width: 200px;
+    max-height: 400px;
+}
